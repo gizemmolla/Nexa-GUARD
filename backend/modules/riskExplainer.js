@@ -1,4 +1,5 @@
 // backend/modules/riskExplainer.js
+//deneme
 
 export function explainRisks(risks) {
   const parts = [];
